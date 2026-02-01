@@ -1,0 +1,16 @@
+{
+  "name": "tamsil-bot",
+  "version": "1.0.0",
+  "main": "execution.js",
+  "scripts": {
+    "start": "node execution.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}
